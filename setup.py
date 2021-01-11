@@ -2,7 +2,7 @@ from setuptools import setup
 
 
 setup(
-    name="Vigenere-b62",
+    name="vigenere-b62",
     version="0.1.0",
     url="",
     license="",
